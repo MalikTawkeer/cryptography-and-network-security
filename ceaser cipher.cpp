@@ -1,4 +1,4 @@
-//PROGRAM TO ENCODE/CONVERT ANY INPUT PASSWORD STRING ACCORDING TO SOME PATTERN(key)
+//PROGRAM TO ENCODE/CONVERT ANY INPUT PASSWORD
 // needs some modifications
 #include<iostream>
 #include<string.h>
